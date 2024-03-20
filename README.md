@@ -211,16 +211,16 @@ if (!localStorage.getItem("products")) {
 
 ### Source Code Repository
 
-- **GitHub Repository:** [Link to the GitHub repository](https://github.com/Murugappankrishna/Solartis_Front_End_final)`modify`
-- **To Get The File:** `git clone https://github.com/Murugappankrishna/Solartis_Front_End_final.git`  `modify`
+- **GitHub Repository:** [Link to the GitHub repository](https://github.com/Murugappankrishna/Shopping_Billing_Management_Back_End_Final/tree/main)
+- **To Get The File:** `git clone https://github.com/Murugappankrishna/Shopping_Billing_Management_Back_End_Final.git`
 
 ### Quick Start
 
 1. Clone the repository to your local machine.
-2. Locate the `shoppingbillingmanagement.sql file` and run it.
-3. Navigate to the `Repo.java` file and change the `username` and `password` as per your SQL DB credentials.
-4. Navigate to the `App.java` file located at `modify!`.
-5. Navigate to the `pom.xml` file located at `modify!`.
+2. Locate the `SQL_Final.sql`and run it 
+3. Navigate to the `JDBC.java` file located at `Back_End_Final/src/main/java/org/murugappan/repo/JDBC.java`and change the `username` and `password` as per your SQL DB credentials.
+4. Navigate to the `App.java` file located at `Back_End_Final/src/main/java/org/murugappan/App.java`
+5. Navigate to the `pom.xml` file located at `Back_End_Final/pom.xml`.
 6. Update Maven to get the dependencies.
 7. Compile and run `App.java` in your preferred IDE or in terminal use `javac App.java` then `java App` to run.
 
@@ -281,19 +281,23 @@ Solartis_Project-main/
 ### ScreenShots 
 - Login Screen
   
-![Remove Product Page](Readme-Screenshots/Login.png)
+![Login Product Page](Readme-Screenshots/Login.png)
 - Home Screen
   
-![Remove Product Page](Readme-Screenshots/HomeScreen.png)
+![HomeScreen Product Page](Readme-Screenshots/HomeScreen.png)
 - Manage Products Screen
   
-![Remove Product Page](Readme-Screenshots/ProductScreen.png)
+![ProductScreen  Page](Readme-Screenshots/ProductScreen.png)
 - Manage Transaction Screen
   
-![Remove Product Page](Readme-Screenshots/Transaction.png)
+![Transaction Page](Readme-Screenshots/Transaction.png)
 - Add Cart Screen
   
-![Remove Product Page](Readme-Screenshots/cart1.png)
+![cart Page](Readme-Screenshots/cart1.png)
 
-![Remove Product Page](Readme-Screenshots/cart2.png)
+![cart Product Page](Readme-Screenshots/cart2.png)
+
+- Sample Bill Pdf
+[Bill PDF](Readme-Screenshots/invoice.pdf).
+
 
