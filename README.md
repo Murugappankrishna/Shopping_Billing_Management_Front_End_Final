@@ -182,19 +182,19 @@ Solartis_Project-main/
 
 ### Source Code Repository
 
-- **GitHub Repository:** [Link to the GitHub repository](https://github.com/Murugappankrishna/Solartis_Front_End_final)
-- **To Get The File**: `git clone https://github.com/Murugappankrishna/Solartis_Front_End_final.git`
+- **GitHub Repository:** [Link to the GitHub repository](https://github.com/Murugappankrishna/Shopping_Billing_Management_Front_End_Final)
+- **To Get The File**: `git clone https://github.com/Murugappankrishna/Shopping_Billing_Management_Front_End_Final.git`
 
 ### Quick Start
 
 1. Clone the repository to your local machine.
-2. Navigate to the `login.html` file located at `modify`
+2. Navigate to the `login.html` file located at `Front_End_Final/login/login.html`
 
  ### File Structure
 The project directory structure is organized as follows:
 
 ```
-project-root/
+Shopping_Billing_Management_Front_End_Final/
 │
 ├── home/
 │   ├── homepage.css
