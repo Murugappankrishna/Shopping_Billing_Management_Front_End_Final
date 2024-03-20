@@ -108,7 +108,7 @@ Solartis_Project-main/
 
 ## SQL - ER Diagram
 
-![ER Diagram](Screenshots/Readme-ERdiagram.png)
+![ER Diagram](Readme-Screenshots/ERdiagram.png)
 
 ## SQL Database Schema
 
