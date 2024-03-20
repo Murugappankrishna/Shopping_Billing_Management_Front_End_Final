@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Add Product</title>
+    <link rel="stylesheet" href="add.css" />
+  </head>
+  <body>
+    <div class="navbar">
+      <h2>Add Product</h2>
+      <a href="../home/homepage.html">Home</a>
+    </div>
+    <div class="main">
+      <div class="container">
+        <h1>Add A Product</h1>
+
+        <input id="productId" type="text" placeholder="Product ID" />
+        <input id="productName" type="text" placeholder="Product Name" />
+        <input id="productPrice" type="text" placeholder="Product Price" />
+        <input
+          id="productDescription"
+          type="text"
+          placeholder="Product Description"
+        />
+        <input id="productImage" type="text" placeholder="Product Image Link" />
+      </div>
+      <div class="delete">
+        <button onclick="addProduct()">Add</button>
+      </div>
+    </div>
+    <script src="../products.js"></script>
+    <script src="add.js"></script>
+  </body>
+</html>

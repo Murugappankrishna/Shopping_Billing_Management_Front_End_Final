@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Delete</title>
+    <link rel="stylesheet" href="edit.css" />
+  </head>
+
+  <body>
+    <div class="navbar">
+      <h2>Edit Product</h2>
+      <a href="../home/homepage.html"> Home</a>
+    </div>
+    <div class="center">
+      <div class="container">
+        <h1>Edit A Product</h1>
+        <form id="editForm">
+          <input id="productId" type="text" placeholder="Product Id" />
+          <select id="editOption">
+            <option value="name">Product-Name</option>
+            <option value="Desc">Produc-Description</option>
+            <option value="price">Product-Price</option>
+          </select>
+          <input id="editValue" type="text" placeholder="Value" />
+        </form>
+      </div>
+      <div class="edit">
+        <button onclick="editProduct()">Edit</button>
+      </div>
+    </div>
+    <script src="../products.js"></script>
+    <script src="edit.js"></script>
+  </body>
+</html>
