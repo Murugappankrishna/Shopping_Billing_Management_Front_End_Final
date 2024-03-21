@@ -298,6 +298,6 @@ Solartis_Project-main/
 ![cart Product Page](Readme-Screenshots/cart2.png)
 
 - Sample Bill Pdf
-[Bill PDF](Readme-Screenshots/invoice.pdf).
+[Bill PDF](https://github.com/Murugappankrishna/Shopping_Billing_Management_Back_End_Final/blob/main/Readme-Screenshots/invoice.pdf).
 
 
